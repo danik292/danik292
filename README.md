@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danik292
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning coding in python
 - 💞️ I’m looking to collaborate on testing
 -  📫 How to reach me create issue at my roadmap repositary
 
