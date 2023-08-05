@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on testing
 -  📫 How to reach me create issue at my roadmap repositary
 
-https://github.com/danik292/github-contribution-stats/
+https://github.com/LordDashMe/github-contribution-stats/
 
 <!---
 danik292/danik292 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
